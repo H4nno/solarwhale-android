@@ -1,0 +1,4 @@
+build/
+keystore.jks
+*.log
+.DS_Store
